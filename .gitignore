@@ -1,5 +1,8 @@
 .bundle/
-Gemfile.lock
 log/*.log
 pkg/
-test/dummy/*
+test/dummy/db/*.sqlite3
+test/dummy/db/*.sqlite3-journal
+test/dummy/log/*.log
+test/dummy/tmp/
+test/dummy/.sass-cache
