@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    array_tree (0.0.1)
+    array_tree (0.0.2)
       rails (~> 4.0.3)
 
 GEM
