@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = ArrayTree::VERSION
   s.authors     = ["Jonathan Boyer"]
   s.email       = ["contact@grafikart.fr"]
-  s.homepage    = "http://grafikart.fr"
+  s.homepage    = "https://github.com/Grafikart/arraytree-gem"
   s.summary     = "The goal of this gem is to add some usefull methods for array."
   s.description = "The goal of this gem is to add some usefull methods for array."
 
